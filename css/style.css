@@ -1,0 +1,144 @@
+/* #A63EC5
+#F190B7 */
+body{
+    font-family: 'Montserrat', sans-serif !important;
+    font-family: 'Roboto', sans-serif !important;
+		
+}
+/* navbar start    */
+.navbar{
+    background-color: #A63EC5;
+}
+.navbar-brand{
+	padding-left: 20px;
+}
+.nav-item{
+	padding-left: 20px;
+	
+	
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+
+.d-flex{
+	padding-left: 120px;
+	width: 40%;
+	padding-right: 10px;
+}
+#login-area{
+    margin-top: 100px;
+}
+.head{
+    color:#A63EC5 ;
+    padding-bottom: 20px;
+}
+.submit-area h4{
+    color:#F190B7 ;
+}
+.submit-area{
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    
+}
+.form-control{
+    width: 80% !important;
+     
+}
+#transition{
+    display: none ;
+}
+.form-control{
+    margin: auto;
+}
+.btn-success{
+    margin-left: 47%;
+}
+.mi{
+   background-color: #A63EC5;
+    border-radius: 10px;
+    padding: 20px;
+   
+}
+.container{
+   
+    margin: auto !important;
+
+}
+.self{
+    margin-top: 100px !important;
+    margin-bottom: 50px !important;
+}
+.contactus{
+    margin-top: 100px;
+}
+.contact-bg{
+	background-color: #F190B7;
+	height: 300px;
+	width: 100%;
+	
+}
+#contactus h3{
+	font-weight: 700;
+	margin-right: 121px;
+}
+#contactus h6{
+	color: black;
+}
+#contactus .inp{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;		
+}
+.contact-btn{
+	background-color: white;
+	border-radius: 10px;
+	margin-left: 110px;
+}
+.inp{
+	margin-left: 45px;
+}
+.contact-info{
+	background-color: #A63EC5;
+	height: 400px;
+}
+.list-unstyled{
+	color: white;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 170px;
+	margin-right: 100px;
+	font-size: 20px;
+}
+.list-unstyled li a{
+	color: white;
+	text-decoration: none;
+}
+.dbtitle h2{
+    font-size: 700;
+    color: #A63EC5;
+    margin-top: 100px;   
+}
+.dbtitle p{
+    margin-top: 20px;
+    text-align: left;
+}
+.dbtitle h4{
+    color: #F190B7;
+}
+.dbtitle ul{
+    text-align: left;
+    margin-top: 20px;
+}
+
+.btn-relax{
+    background-color: #A63EC5;
+   color: white;
+   margin-left: 34%;
+   margin-top: 10px;
+}
+
+
+
+	
